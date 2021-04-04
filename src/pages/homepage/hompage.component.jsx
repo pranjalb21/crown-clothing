@@ -7,5 +7,5 @@ import './homepage.styles.scss';
 
 const Homepage = () =>(
     <Directory />
-)
+);
 export default Homepage;
